@@ -3605,6 +3605,7 @@ input, select, textarea {
 				margin: 0 auto;
 				max-width: 65em;
 				width: calc(100% - 6em);
+				overflow: hidden;
 			}
 
 				@media screen and (max-width: 736px) {
@@ -3612,6 +3613,7 @@ input, select, textarea {
 					#main > * > .inner {
 						padding: 3em 0 1em 0 ;
 						width: calc(100% - 3em);
+						overflow: hidden;
 					}
 
 				}

@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fe640a1-625d-4ccd-9868-246ff44b3182" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/one/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nindorabox/one/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/one/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/one/main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nindorabox/one/main.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/three/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nindorabox/three/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/three/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/two/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nindorabox/two/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nindorabox/two/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nindorabox.html" beforeDir="false" afterPath="$PROJECT_DIR$/nindorabox.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +53,7 @@
       <workItem from="1635649320661" duration="1000" />
       <workItem from="1635649350182" duration="2560000" />
       <workItem from="1635696514674" duration="903000" />
-      <workItem from="1635862692577" duration="3114000" />
+      <workItem from="1635862692577" duration="3948000" />
     </task>
     <servers />
   </component>
